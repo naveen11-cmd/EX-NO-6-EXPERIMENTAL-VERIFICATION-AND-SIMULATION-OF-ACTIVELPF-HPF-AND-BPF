@@ -170,7 +170,8 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 DESIGN: BAND PASS FILTER
 
-![WhatsApp Image 2025-11-28 at 16 30 44_1000ca22](https://github.com/user-attachments/assets/fa6f1bc7-f158-40b5-bc85-999fd3fc5c1c)
+<img width="647" height="890" alt="image" src="https://github.com/user-attachments/assets/dd9e4d6c-a830-45d2-ae7d-2773d4c43bef" />
+
 
 ## PROCEDURE
 
