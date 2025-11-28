@@ -1,14 +1,10 @@
 # EX-NO-6-EXPERIMENTAL-VERIFICATION-AND-SIMULATION-OF-ACTIVELPF-HPF-AND-BPF
 ## 6 DESIGN OF ACTIVE LOW PASS, HIGH PASS AND BAND PASS FILTERS USING OP-AMP
-            
-**DATE:**  
-         
----
 
-## AIM
-            
-**DATE:**  
-         
+**DATE:24/9/25          
+---
+## AIM           
+**DATE:**          
 ---
 
 ## AIM and obtain the frequency response of
@@ -20,8 +16,6 @@ iii)	Band pass filter
 ---
 
 ** 6 A :- LOW PASS FILTER**
-
-
 
 ## THEORY
 ## LOW PASS FILTER
