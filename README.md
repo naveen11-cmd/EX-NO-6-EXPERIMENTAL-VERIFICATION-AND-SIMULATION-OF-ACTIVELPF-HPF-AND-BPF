@@ -197,7 +197,8 @@ PROCEDURE:BAND PASS FILTER
 ---
 
 ## SIMULATION OUTPUT
-<img width="784" height="339" alt="image" src="https://github.com/user-attachments/assets/0a0f916c-cea8-4cfb-a55b-663193c47b2a" />
+<img width="980" height="429" alt="image" src="https://github.com/user-attachments/assets/bab6b3cd-a13c-4e57-b001-0e9ff55010b6" />
+
 
 ##RESULT:
 	Thus an Active Low pass, High pass and Band Pass Filters are designed and
