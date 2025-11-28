@@ -12,9 +12,7 @@
 i)	First order Low Pass Filter (LPF)
 ii)	First order High Pass Filter (HPF)
 iii)	Band pass filter
-
 ---
-
 ** 6 A :- LOW PASS FILTER**
 
 ## THEORY
@@ -45,11 +43,9 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 <img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
 
 ---
-
 ## DESIGN
 
 ![WhatsApp Image 2025-11-28 at 16 24 05_f1ac161e](https://github.com/user-attachments/assets/b6b8ae5f-70e9-4bc8-9117-8372d85f3b83)
-
 
 ## PROCEDURE
 
@@ -59,8 +55,6 @@ PROCEDURE - (LPF):
 3.	Apply a constant voltage input sinusoidal signal to the non-inverting terminal of op-amp.
 4.	Tabulate the output voltage Vo with respect to different values of input frequency.
 5.	Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to get approximately the same characteristic as shown in the model graph.
-
-
 
 ## TABULATION
 
@@ -76,9 +70,7 @@ PROCEDURE - (LPF):
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/23c00988-0f6a-478e-ab43-67d307fab35d" />
 
  ## 6 B HIGH PASS FILTER
-
 ---
-
 ## THEORY
 HIGH PASS FILTER
 A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain is 0.707 Amax, and after fH gain decreases at a constant rate with an increase in frequency. The gain decreases 20dB each time the frequency is increased by 10. Hence the rate at which the gain rolls off after fH is 20dB/decade or 6 dB/ octave, where octave signifies a two fold increase in frequency. The frequency f=fH is called the cut off frequency because the gain of the filter at this frequency is down by 3 dB from 0 Hz. Other equivalent terms for cut-off frequency are -3dB frequency, break frequency, or corner frequency.
@@ -101,12 +93,10 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ![WhatsApp Image 2025-11-28 at 16 22 36_d0c4b930](https://github.com/user-attachments/assets/a9d67c06-83ef-454e-bee4-f87d57b8576b)
 
-
 ## SIMULATION CIRCUIT DIAGRAM
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/836e5826-7d3e-4fd5-ad22-8667996d4552" />
 
 ## MODEL GRAPH
-
 <img width="1005" height="382" alt="image" src="https://github.com/user-attachments/assets/22925efc-4abc-4fad-90d5-94f3348c3c0b" />
 
 ---
@@ -115,9 +105,6 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ![WhatsApp Image 2025-11-28 at 16 24 05_e2a71e89](https://github.com/user-attachments/assets/5035faf6-bcce-4b64-a36e-0d0c42ecaf9b)
 ![WhatsApp Image 2025-11-28 at 16 25 21_77dd6931](https://github.com/user-attachments/assets/198c522e-b7b4-4945-9802-2203e7436dcd)
-
-
-
 
 ## PROCEDURE
 
@@ -128,8 +115,6 @@ PROCEDURE - ( HPF):
 4.	Tabulate the output voltage Vo with respect to different values of input frequency.
 5.	Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to get approximately the same characteristic as shown in the model graph.
 
-
-
 ## TABULATION
 
 ![WhatsApp Image 2025-11-28 at 17 25 41_6c133f71](https://github.com/user-attachments/assets/120b0925-c518-4ec9-8945-1ff0dea337ef)
@@ -139,11 +124,9 @@ PROCEDURE - ( HPF):
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-28 at 16 32 08_479f9ad8](https://github.com/user-attachments/assets/7eb05c52-6986-47ad-bde9-123556253190)
 
-
 ---
 ## SIMULATION OUTPUT
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/fbb9444b-a700-41ea-8532-f02f190e319a" />
-
 
  ## 6C Band Pass Filter
 
@@ -188,8 +171,6 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 DESIGN: BAND PASS FILTER
 
 ![WhatsApp Image 2025-11-28 at 16 30 44_1000ca22](https://github.com/user-attachments/assets/fa6f1bc7-f158-40b5-bc85-999fd3fc5c1c)
-
-
 
 ## PROCEDURE
 
